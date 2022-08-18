@@ -1,0 +1,1 @@
+` [![Build status](https://ci.appveyor.com/api/projects/status/aokk8ymm7v0984dt?svg=true)](https://ci.appveyor.com/project/Hrandis/selenium)
